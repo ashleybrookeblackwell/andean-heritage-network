@@ -49,7 +49,7 @@ Curatorial uncertainty is also kept visible, as hedged attributions like "Chimú
 - **Metric:** betweenness centrality — which attribute nodes sit on the most paths between everything else.
 ![Andean network — betweenness centrality](Epistemology_of_Absence.png)
  
-**▶ [Explore the interactive graph](https://ablackwellb.github.io/andean-heritage-network/Andean_Network_Betweenness_Centrality.html)** — drag, zoom, and hover for object type and betweenness scores.
+**▶ [Explore the interactive graph](https://ashleybrookeblackwell.github.io/andean-heritage-network/Andean_Network_Betweenness_Centrality.html)** — drag, zoom, and hover for object type and betweenness scores.
  
 ## What the Network Reveals
  
