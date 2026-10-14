@@ -121,4 +121,4 @@ jupyter nbconvert --to notebook --execute MET.ipynb --output MET.executed.ipynb
 ---
  
 **Ashley Blackwell** — Applied Data Scientist
-[LinkedIn](https://linkedin.com/in/ablackwellb) · [GitHub](https://github.com/ablackwellb) · [Hugging Face](https://huggingface.co/ablackwellb)
+[LinkedIn](https://linkedin.com/in/ashleybrookeblackwell) · [GitHub](https://github.com/ashleybrookeblackwell) · [Hugging Face](https://huggingface.co/ablackwellb)
